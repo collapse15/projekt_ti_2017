@@ -3,3 +3,4 @@
 TODO:
 
 - [x] założyć konto na GitHub
+- [x] rozpoznać się w temacie _secure shell_
