@@ -13,6 +13,6 @@ TODO:
 ```c
 main () {
 printf("hello world\n");
-return0;
+return 0;
 }
 ```
