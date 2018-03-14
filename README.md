@@ -17,11 +17,3 @@ Na początku lat osiemdziesiątych sponsorem BKS Lechia został Nikodem Skotarcz
 ![Thailand](http://i.huffpost.com/gen/1460673/images/o-THAILAND-facebook.jpg)
 
 
-#Programujemy w C
-
-```c
-main () {
-printf("hello world\n");
-return 0;
-}
-```
