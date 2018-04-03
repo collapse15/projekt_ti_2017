@@ -1,5 +1,5 @@
 * {
-  margin:0;^M
+  margin:0;
   padding:0;
 }
 
@@ -10,7 +10,7 @@ html {
 
 body {
   color:black;
-  background:white;
+  background:green;
 
   font-family:Arial, Helvetica, Sans-serif;
   font-size:20px;
@@ -49,12 +49,12 @@ aside nav ul li a {
   text-decoration:none;
 
   color:white;
-  background:green;
+  background:grey;
 }
 
 aside nav ul li a:hover{
   
-  color: white;^M
+  color: red;
   background:green;
 }
 
@@ -71,8 +71,8 @@ footer {
   padding:15px 0 15px 30px;
   text-align: center;
 
-  color:white;
-  background:green;
+  color:red;
+  background:yellow;
 }
 table, th, td{
   border: 1px solid black;
