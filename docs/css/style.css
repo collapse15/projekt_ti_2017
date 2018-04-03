@@ -10,7 +10,7 @@ html {
 
 body {
   color:black;
-  background:green;
+  background:white;
 
   font-family:Arial, Helvetica, Sans-serif;
   font-size:20px;
@@ -49,12 +49,12 @@ aside nav ul li a {
   text-decoration:none;
 
   color:white;
-  background:grey;
+  background:green;
 }
 
 aside nav ul li a:hover{
   
-  color: red;
+  color: white;
   background:green;
 }
 
@@ -71,8 +71,8 @@ footer {
   padding:15px 0 15px 30px;
   text-align: center;
 
-  color:red;
-  background:yellow;
+  color:white;
+  background:green;
 }
 table, th, td{
   border: 1px solid black;
